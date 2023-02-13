@@ -1,0 +1,32 @@
+* {
+    margin: 0%;
+}
+h1 {
+    font-style: italic;
+    letter-spacing: 25px;
+    font-size: 130px;
+    font-family: sans-serif;
+    width: 50%;
+    height: 150px;
+    margin: auto;
+    text-align: center;
+    color: white;
+    margin-top: 100px;
+}
+header div {
+    border: solid  rgb(64, 153, 79) 20px;
+    text-align: center;
+    margin: auto;
+    margin-top: 24px;
+    width: 150px;
+    height: 150px;
+    border-radius: 20px;
+    transition: transform .5s;
+
+}
+header div:hover {
+    transform: scale(1.2);
+}
+body {
+    background-image: url(https://th.bing.com/th/id/OIP.bWgBPKiKAeAV9f36jT345AHaE7?pid=ImgDet&rs=1);
+}

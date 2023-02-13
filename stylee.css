@@ -1,0 +1,38 @@
+* {
+    margin: 0;
+}
+
+body {
+    background-image: url(https://th.bing.com/th/id/OIP.bWgBPKiKAeAV9f36jT345AHaE7?pid=ImgDet&rs=1);
+}
+
+h1 {
+    font-size: 150px;
+    color: white;
+    text-align: center;
+}
+
+fieldset {
+    width: 500px;
+    text-align: center;
+    margin-left: 420px;
+}
+
+legend {
+    color: white;
+}
+
+label {
+    color: white;
+    font-size: 30px;
+}
+
+li {
+    font-size: 70px;
+    text-align: center;
+    list-style: none;
+}
+
+a {
+    color: white;
+}
